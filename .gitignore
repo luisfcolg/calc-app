@@ -26,3 +26,8 @@ yarn-error.log*
 /.idea
 .eslintcache
 package-lock.json
+
+#firebase
+.firebaserc
+/.firebase
+firebase.json
